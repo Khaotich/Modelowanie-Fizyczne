@@ -1,0 +1,1 @@
+Animacja przedstawia ruch tkaniny, na kształt peleryny z możliwością dobierania właściwości fizycznych.
